@@ -1,2 +1,2 @@
 # FVSight_Data
-# Please download the data in the releases
+# Please download the data in the "Releases"
